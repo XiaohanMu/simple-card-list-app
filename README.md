@@ -12,7 +12,6 @@ git clone https://github.com/XiaohanMu/simple-card-list-app.git
 ## Running the Backend
 1. Navigate to the backend directory：
 **Command:**
-```bash
 cd simple-card-list-app/backend
 
 2. Install the required dependencies：

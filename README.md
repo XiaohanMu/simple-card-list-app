@@ -5,6 +5,7 @@ This project is a Simple Card List application that displays a list of products.
 - Display a list of products with images, names, descriptions, and prices.
 - Delete a product from the list.
 - Backend API to manage product data.
+You can see the result display in the front_display.png file.
 
 ## Installation
 git clone https://github.com/XiaohanMu/simple-card-list-app.git
